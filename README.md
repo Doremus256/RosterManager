@@ -1,4 +1,4 @@
-Roster Manager - HW #11 
+Roster Manager
 Brad Doremus
 GitHub: https://github.com/Doremus256/RosterManager
 Walkthorugh Videos: See README for walkthrough videos. They are also saved within the GitHub repo under Develop//Videos..
